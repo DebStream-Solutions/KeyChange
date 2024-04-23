@@ -1,8 +1,8 @@
 Package: KeyChange
-Version: 1.1
+Version: 1.15
 Section: base
 Priority: optional
 Architecture: all
-Depends: Any
+Depends: setxkbmap
 Maintainer: The Chaos Studios <keychange@chaos-studios.com>
 Description: This package is used for fast switching between keyboard languages.

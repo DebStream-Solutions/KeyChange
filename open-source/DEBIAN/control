@@ -3,6 +3,5 @@ Version: 1.15
 Section: base
 Priority: optional
 Architecture: all
-Depends: None
 Maintainer: The Chaos Studios <keychange@chaos-studios.com>
-Description: This package is used for fast switching between keyboard languages.
+Description: KeyChange is a utility for fast switching between keyboard languages. It provides a simple and efficient way to manage multiple keyboard layouts and switch between them with ease.

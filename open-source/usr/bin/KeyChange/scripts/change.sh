@@ -28,8 +28,8 @@ fi
 
 if [ -z "$(setxkbmap -print | grep '+us+')" ]; then
 	$(setxkbmap us)
-	echo "cs > us" >> ../log
+	echo "cs > us" >> /usr/bin/KeyChange/log
 else
 	$(setxkbmap cz)
-	echo "us > cs" >> ../log
+	echo "us > cs" >> /usr/bin/KeyChange/log
 fi
